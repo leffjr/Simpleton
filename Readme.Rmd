@@ -11,13 +11,13 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# simpleton
+# Simpleton
 Jack Leff
 2016-02-22
 
-## simpleton Version 0.1.1
+## Simpleton Version 0.1.1
 
-[![Travis-CI Build Status](https://travis-ci.org/leffjr/simpleton.svg?branch=master)](https://travis-ci.org/leffjr/simpleton)
+[![Travis-CI Build Status](https://travis-ci.org/leffjr/Simpleton.svg?branch=master)](https://travis-ci.org/leffjr/Simpleton)
 
 ## Installation
 
@@ -25,11 +25,11 @@ To install this package use:
 
 
 ```s
-devtools::install_github('leffjr/simpleton', build_vignettes = TRUE)
+devtools::install_github('leffjr/Simpleton', build_vignettes = TRUE)
 ```
 
 ## Bug Reports
 
-Please report bugs and suggestions to [https://github.com/leffjr/simpleton/issues](https://github.com/leffjr/simpleton/issues)
+Please report bugs and suggestions to [https://github.com/leffjr/Simpleton/issues](https://github.com/leffjr/Simpleton/issues)
 
 ## Something new here
