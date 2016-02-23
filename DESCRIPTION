@@ -8,5 +8,6 @@ Description: This is my first package attempt, it rolls dice, and the descriptio
 License: GPL-2
 LazyData: TRUE
 Suggests: knitr,
-    rmarkdown
+    rmarkdown,
+    testthat
 VignetteBuilder: knitr
