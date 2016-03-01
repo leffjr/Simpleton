@@ -35,8 +35,6 @@ sum(dice)
 #' sq(1:10)
 sq <- function(x){
   x^2
-  if(typeof(x) !=double)
-    stop("object must be numeric")
 }
 
 #' Power Function
